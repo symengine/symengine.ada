@@ -1,0 +1,1 @@
+gnatmake test -largs /home/rikard/devel/symengine/build/symengine/libsymengine.a /home/rikard/devel/symengine/build/symengine/utilities/teuchos/libteuchos.a /usr/lib/x86_64-linux-gnu/libgmp.a /usr/lib/x86_64-linux-gnu/libbfd.so --LINK=c++
